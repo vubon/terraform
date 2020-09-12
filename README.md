@@ -5,7 +5,7 @@ Install Terraform on your machine [Link](https://learn.hashicorp.com/tutorials/t
 
 Check the version
 ```bash 
-terrraform -v 
+terraform -v 
 ```
 Basic Command List 
 | Description                               | Command                     |

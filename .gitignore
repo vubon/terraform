@@ -1,0 +1,11 @@
+.vscode/*
+docker/*.terraform
+docker/*.backup
+docker/*.tfstate
+
+ec2/*.pem
+ec2/*.pub
+ec2/*.terraform
+ec2/*.backup
+ec2/*.txt
+ec2/*.tfstate
